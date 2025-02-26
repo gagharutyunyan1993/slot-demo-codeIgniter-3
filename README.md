@@ -1,4 +1,6 @@
-# Burning Love Slot Demo (CodeIgniter 3)
+![demo](https://github.com/user-attachments/assets/7ec506e1-9f5a-495e-93d8-519ca1476423)
+
+# Slot Demo (CodeIgniter 3)
 
 Этот проект — демо-версия слота "Burning Love", написанная на PHP с использованием CodeIgniter 3.
 
